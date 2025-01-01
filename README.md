@@ -1,3 +1,3 @@
-# cs140
+# hikil140
 This is my first repository
 Author - hikil v
